@@ -1,3 +1,3 @@
-# Flowchart Daspro
+# Daspro [SEM 1]
 
-from draw.io
+Practice file and Flowchart file from draw.io
