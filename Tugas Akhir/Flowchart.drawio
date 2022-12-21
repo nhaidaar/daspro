@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T16:10:28.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UM5nNSuZDYwv5MvChCCt" version="20.7.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-12-21T09:37:03.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Umnr98t_7TpFAhy41gnK" version="20.7.4" type="github" pages="9">
   <diagram id="Zhix4vkLkVhAdCfd1Lj_" name="main">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1583,7 +1583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XfT1XB3cXSn59G5LPtd7" name="cariBahan">
-    <mxGraphModel dx="1500" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1635,6 +1635,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Yn-ZvozeLAsPBVmbacFS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8AiPTeq9QCTiXVmbhKZT-5" target="8AiPTeq9QCTiXVmbhKZT-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8AiPTeq9QCTiXVmbhKZT-5" value="!ditemukan" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="750" width="110" height="100" as="geometry" />
@@ -1725,7 +1728,7 @@
         <mxCell id="TOkIN6vqoNdVM6Vd9Xf_-10" value="CB2" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;spacingTop=-60;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="1169" y="685.25" width="50" height="64.75" as="geometry" />
         </mxCell>
-        <mxCell id="pG6uJlkkliTHoBstKGtF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pG6uJlkkliTHoBstKGtF-2">
+        <mxCell id="pG6uJlkkliTHoBstKGtF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="pG6uJlkkliTHoBstKGtF-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="600" as="sourcePoint" />
           </mxGeometry>
@@ -1739,13 +1742,13 @@
         <mxCell id="2prmG0EIu2roESFNzh-T-2" value="cariBahan 2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1520" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pG6uJlkkliTHoBstKGtF-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;br&gt;&quot;Data tidak ditemukan!&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="pG6uJlkkliTHoBstKGtF-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;br&gt;&quot;Data tidak ditemukan!&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="50" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pG6uJlkkliTHoBstKGtF-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;namaBahan[i] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="pG6uJlkkliTHoBstKGtF-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;namaBahan[i] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="950" y="570.01" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pG6uJlkkliTHoBstKGtF-4" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;br&gt;tabelBahan[i][j] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="pG6uJlkkliTHoBstKGtF-4" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;br&gt;tabelBahan[i][j] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1460" y="570.01" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
