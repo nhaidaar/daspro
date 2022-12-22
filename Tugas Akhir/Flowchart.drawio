@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T16:27:46.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VHjB0D0AABgDK42tylTP" version="20.7.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-12-22T16:38:04.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TUI-RTHQ36jRU8JS_Umg" version="20.7.4" type="github" pages="10">
   <diagram id="Zhix4vkLkVhAdCfd1Lj_" name="main">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -564,7 +564,7 @@
             <mxPoint x="464.9200000000001" y="779.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8tQ4eGIosvMPuxNZ7DzF-22" value="output&lt;br&gt;Konfirmasi yang Anda masukkan salah!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8tQ4eGIosvMPuxNZ7DzF-22" value="output&lt;br&gt;&quot;Konfirmasi yang Anda masukkan salah!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="389.92" y="675" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8tQ4eGIosvMPuxNZ7DzF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8tQ4eGIosvMPuxNZ7DzF-24" target="8tQ4eGIosvMPuxNZ7DzF-26">
@@ -594,7 +594,7 @@
         <mxCell id="8tQ4eGIosvMPuxNZ7DzF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8tQ4eGIosvMPuxNZ7DzF-41" target="8tQ4eGIosvMPuxNZ7DzF-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8tQ4eGIosvMPuxNZ7DzF-41" value="output&lt;br&gt;Maaf, jumlah jenis bahan telah mencapai maksimum!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8tQ4eGIosvMPuxNZ7DzF-41" value="output&lt;br&gt;&quot;Maaf, jumlah jenis bahan telah mencapai maksimum!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="579.9599999999999" y="237.5" width="220.08" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8tQ4eGIosvMPuxNZ7DzF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8tQ4eGIosvMPuxNZ7DzF-47">
@@ -1236,10 +1236,10 @@
         <mxCell id="pG6uJlkkliTHoBstKGtF-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;br&gt;&quot;Data tidak ditemukan!&quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="41" y="855" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pG6uJlkkliTHoBstKGtF-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;namaBahan[i] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="pG6uJlkkliTHoBstKGtF-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;print&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;namaBahan[i] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="950" y="200.01" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pG6uJlkkliTHoBstKGtF-4" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;br&gt;tabelBahan[i][j] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="pG6uJlkkliTHoBstKGtF-4" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;print&lt;br&gt;tabelBahan[i][j] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1460" y="200.01" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n6YU7B-iY0r6HVxIBZpl-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="n6YU7B-iY0r6HVxIBZpl-2" target="n6YU7B-iY0r6HVxIBZpl-33">
@@ -1277,7 +1277,7 @@
             <mxPoint x="1305" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n6YU7B-iY0r6HVxIBZpl-10" value="output&lt;br&gt;Konfirmasi yang Anda masukkan salah!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="n6YU7B-iY0r6HVxIBZpl-10" value="output&lt;br&gt;&quot;Konfirmasi yang Anda masukkan salah!&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="655" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n6YU7B-iY0r6HVxIBZpl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n6YU7B-iY0r6HVxIBZpl-12" target="n6YU7B-iY0r6HVxIBZpl-14">
@@ -1475,7 +1475,7 @@
         <mxCell id="7JxYvgyIlcICK9OhGJbo-24" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;print&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;namaBahan[i] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" vertex="1" parent="7JxYvgyIlcICK9OhGJbo-1">
           <mxGeometry x="460" y="517.5" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7JxYvgyIlcICK9OhGJbo-25" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;output&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;tabelBahan[i][j] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" vertex="1" parent="7JxYvgyIlcICK9OhGJbo-1">
+        <mxCell id="7JxYvgyIlcICK9OhGJbo-25" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;print&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;tabelBahan[i][j] + &quot; || &quot;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" vertex="1" parent="7JxYvgyIlcICK9OhGJbo-1">
           <mxGeometry x="873.13" y="517.5" width="142.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RgOmU40FN7o8QcWFs5x_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="7JxYvgyIlcICK9OhGJbo-1" source="RgOmU40FN7o8QcWFs5x_-0" target="7JxYvgyIlcICK9OhGJbo-24">
